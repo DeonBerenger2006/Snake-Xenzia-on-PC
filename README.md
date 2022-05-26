@@ -15,6 +15,8 @@ Play the iconic Snake game (A.K.A "Snake Xenzia") on your Windows PC as a .bat f
 
 ->Graphics options where you can change the game's looks
 
+->Replay your highscore moments with the replay feature
+
 --Controls--
 
 ->Usual WASD controls 
